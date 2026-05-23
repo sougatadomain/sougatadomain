@@ -3,7 +3,6 @@
 🚀 Learning React next | Open to collaborations
 🎯 Check out FocusFlow → my latest project!
 
-[GitHub_Profile_README.md](https://github.com/user-attachments/files/28178888/GitHub_Profile_README.md)
 <!---<div align="center">
 
 # Hey there, I'm Sougata Karmakar 👋
