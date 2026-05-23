@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+Project+Builder;Hackathon+Learner;Open+Source+Explorer" />
 </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=SOUGATA%20KARMAKAR&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ---
 
@@ -36,33 +37,48 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GITHUB STREAK
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sougatadomain&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+## 🏆 TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sougatadomain&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sougata-karmakar-a5796831b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/SougataKar97344">
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/xenon_e5">
+  <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/YOURUSERNAME">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+<p align="center">
+  <a href="mailto:sougatakarmakar22@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Contact_Me-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
 </p>
-
----
 
 <p align="center">
 ✨ “Code. Learn. Build. Repeat.” ✨
