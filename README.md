@@ -4,7 +4,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+Project+Builder;Hackathon+Learner;Open+Source+Explorer" />
 </p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=SOUGATA%20KARMAKAR&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<!-- Profile Views -->
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=sougatadomain&label=Profile%20Views&color=00F7FF&style=for-the-badge" 
+    alt="Profile Views"
+  />
+</p>
+
+<!-- Header Banner -->
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=SOUGATA%20KARMAKAR&fontSize=40&fontColor=ffffff&animation=fadeIn" 
+/>
 
 ---
 
