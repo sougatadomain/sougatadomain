@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="YOUR_ANIMATION_GIF_URL_HERE" width="700px" alt="Sougata Karmakar Developer Animation"/>
+<img src="./sougata-digital-lab.png" width="100%" alt="SOUGATA // DIGITAL LAB"/>
 
 </div>
 
