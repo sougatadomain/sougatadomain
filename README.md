@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SOUGATA KARMAKAR
+# ⚡SOUGATA KARMAKAR
 
 <div align="center">
 
